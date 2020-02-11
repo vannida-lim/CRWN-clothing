@@ -1,68 +1,63 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align='center"> CRWN Clothing 👑🛍 </p>
+<p align="center">
+A full stack React.js, Redux and Firebase e-commerce web app
+</p>
+<p align="center">
+Built with 💖 and ✨ by [Vannida
+Lim](https://github.com/vannida-lim)
+</p>
 
-## Available Scripts
+**Features**
+------------
 
-In the project directory, you can run:
+CRWN Clothing is an app that aims to provide users a convenient way to
+shop for clothing items. Users can signup and login with their own or Google account. Users can add items to their cart and checkout. 
 
-### `yarn start`
+**Tech Stack**
+--------------
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This web app makes use of the following:
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+**Backend**
 
-### `yarn test`
+-   [Firebase](https://firebase.google.com/)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Front End**
 
-### `yarn build`
+-   [React.js](https://reactjs.org/) - Javascript library
+-   [react-router](https://github.com/ReactTraining/react-router#readme) - NPM used for declarative routing
+-   [react-redux](https://react-redux.js.org/) - React-Redux library
+-   [styled-components](https://www.styled-components.com/) - CSS library
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+**Prerequisites**
+-----------------
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Before you begin, ensure you have installed the latest version of:
 
-### `yarn eject`
+-   [Ruby](https://www.ruby-lang.org/en/)
+-   [Rails](https://rubyonrails.org/)
+-   [PostgreSQL](https://www.postgresql.org/)
+-   [Node.js and npm](https://nodejs.org/en/)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+This web app uses the following API keys from:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+-   [Google Firebase API](https://firebase.google.com/docs)
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+**Installing**
+--------------
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+*For information on Backend Installation please click here: [Study Spots Backend](https://github.com/vannida-lim/studyspots-backend)*
 
-## Learn More
+Frontend Installation:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+-   Clone this repo to your local machine `git clone git <this-repo-url>`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+-   `cd` to `CRWN-clothing`
 
-### Code Splitting
+-   Ensure your Backend API is running at `http://localhost:3000/`
+-   run npm install to install all dependencies
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+-   run `npm install && npm start` to run dependencies and start server
 
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+-   When prompted, ensure Frontend is running at `http://localhost:3001` or another available port 
