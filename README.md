@@ -1,10 +1,10 @@
-<p align="center"> CRWN Clothing 👑🛍 </p>
+<h1 align="center"> CRWN Clothing 👑🛍 </h1>
 <p align="center">
-A full stack React.js, Redux and Firebase e-commerce web app
+A full stack <code>React.js</code>, <code>Redux</code> and <code>Firebase</code> e-commerce web app
 </p>
 <p align="center">
-Built with 💖 and ✨ by [Vannida
-Lim](https://github.com/vannida-lim)
+Built with 💖 and ✨ by <a href='https://github.com/vannida-lim'>Vannida
+Lim</a>
 </p>
 
 **Features**
