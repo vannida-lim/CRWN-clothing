@@ -1,4 +1,4 @@
-<p align='center"> CRWN Clothing 👑🛍 </p>
+<p align="center"> CRWN Clothing 👑🛍 </p>
 <p align="center">
 A full stack React.js, Redux and Firebase e-commerce web app
 </p>
