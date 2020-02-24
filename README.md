@@ -11,7 +11,7 @@ Lim</a>
 ------------
 
 CRWN Clothing is an app that aims to provide users a convenient way to
-shop for clothing items. Users can signup and login with their own or Google account. Users can add items to their cart and checkout. 
+shop for clothing items. Users can signup and login with their own or Google account. Users can add items to their cart and checkout with Stripe. 
 
 **Tech Stack**
 --------------
@@ -35,9 +35,6 @@ This web app makes use of the following:
 
 Before you begin, ensure you have installed the latest version of:
 
--   [Ruby](https://www.ruby-lang.org/en/)
--   [Rails](https://rubyonrails.org/)
--   [PostgreSQL](https://www.postgresql.org/)
 -   [Node.js and npm](https://nodejs.org/en/)
 
 This web app uses the following API keys from:
