@@ -7,6 +7,9 @@ Built with 💖 and ✨ by <a href='https://github.com/vannida-lim'>Vannida
 Lim</a>
 </p>
 
+**See it live:** https://crwn-clothing-ecomm.herokuapp.com/
+------------
+
 **Demo**
 ------------
 ![crwn-clothing-demo](public/demo.gif)
