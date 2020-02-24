@@ -7,6 +7,10 @@ Built with 💖 and ✨ by <a href='https://github.com/vannida-lim'>Vannida
 Lim</a>
 </p>
 
+**Demo**
+------------
+![crwn-clothing-demo](public/demo.gif)
+
 **Features**
 ------------
 
